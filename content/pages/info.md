@@ -13,11 +13,17 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
+    text: >+
+      ![](/images/WhatsApp%20Image%202025-01-06%20at%209.16.17%20PM.jpeg)
+
+      Hey I’m a developer. I’ve been born and raised in the world, and that’s
       also where I’m based. I’m currently a free agent, ex-this, ex-that,
       ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      cereals. I have a dog, check her out
+      [@NITISHCODER](https://www.stackbit.com/)
+
+      ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
     media:
       type: ImageBlock
       url: /images/about.jpg
