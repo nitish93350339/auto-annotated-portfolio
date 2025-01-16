@@ -169,6 +169,9 @@ sections:
         label: C++
       - type: Label
         label: Swift
+      - type: Label
+        label: JAVA EXPERT
+        url: ''
   - type: DividerSection
     styles:
       self:
