@@ -142,7 +142,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-    subtitle: 'You can find me here:'
+    subtitle: 'You can find me here: Chaurasianitish95@gmail.com'
   - type: DividerSection
     styles:
       self:
