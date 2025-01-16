@@ -1,6 +1,6 @@
 ---
 type: ProjectFeedLayout
-title: Projects
+title: NEXT TOPPER ABHAY BATCH
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
