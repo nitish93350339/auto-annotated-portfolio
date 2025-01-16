@@ -26,6 +26,15 @@ projectFeed:
         - pr-4
         - pb-12
   title: ABHAY2025
+  actions:
+    - type: Link
+      label: Learn more
+      altText: ''
+      url: '/https://rolexcoderz.netlify.app/home/'
+      showIcon: false
+      icon: arrowRight
+      iconPosition: right
+      elementId: ''
 styles:
   title:
     textAlign: left
