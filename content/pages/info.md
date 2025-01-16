@@ -118,7 +118,7 @@ sections:
         featuredImage:
           type: ImageBlock
           url: /images/Screenshot (116).png
-          altText: altText of the image
+          altText: INSTA ID
           caption: Caption of the image
           elementId: ''
     columns: 3
