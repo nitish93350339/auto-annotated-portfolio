@@ -78,16 +78,6 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: GitHub
-            url: 'https://github.com/'
-        styles:
-          self:
-            textAlign: left
-        text: |
-          https\://www\.instagram.com/nitish\_chaurasia9335/?hl=en
-      - type: FeaturedItem
-        actions:
-          - type: Link
             label: Twitter
             url: 'https://twitter.com/'
         styles:
