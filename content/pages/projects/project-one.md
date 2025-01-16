@@ -16,7 +16,7 @@ media:
   type: ImageBlock
   url: /images/Screenshot (82).png
   altText: altText of the image
-  caption: Caption of the image
+  caption: LET DIVE INTO THIS BATCH
   elementId: ''
 ---
 
